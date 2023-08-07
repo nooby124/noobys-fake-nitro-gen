@@ -97,4 +97,4 @@ nonf = random.choice(nboat)
 print("found " + nonf + " nitro links!")
 #lesgo
 
-webbrowser.open('http://example.com')
+webbrowser.open('https://nooby124/github.io/noobys-nitro-gen')
